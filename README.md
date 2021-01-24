@@ -11,8 +11,8 @@ Add an Employee,
 Update an Employee Role.
 
 # Github Repo URL
+https://github.com/koneruteja/etracker
 
 # Walkthrough Media
 
-
-### Video
+[Walkthrough](https://youtu.be/S5_ieycxqjo)
